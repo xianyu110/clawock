@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-08-28T05:49:46.391394+00:00",
+  "generated_at": "2026-08-30T23:56:23.452335+00:00",
   "vix": {
     "symbol": "^VIX",
-    "price": 14.51,
-    "prev": 15.21,
-    "change_pct": -4.6,
-    "as_of": 1787861701,
+    "price": 14.43,
+    "prev": 14.51,
+    "change_pct": -0.55,
+    "as_of": 1787948101,
     "source": "yahoo"
   },
   "treasury_10y": {
     "symbol": "^TNX",
-    "price": 4.672,
-    "prev": 4.664,
-    "change_pct": 0.17,
-    "as_of": 1787857194,
+    "price": 4.72,
+    "prev": 4.672,
+    "change_pct": 1.03,
+    "as_of": 1787943594,
     "source": "yahoo",
-    "yield_pct": 4.672
+    "yield_pct": 4.72
   },
   "dxy": {
     "symbol": "DX-Y.NYB",
-    "price": 99.197,
-    "prev": 99.159,
-    "change_pct": 0.04,
-    "as_of": 1787895584,
+    "price": 99.655,
+    "prev": 99.702,
+    "change_pct": -0.05,
+    "as_of": 1788133581,
     "source": "yahoo"
   },
   "fear_greed": {
-    "score": 57.9,
-    "rating": "greed",
+    "score": 54.4,
+    "rating": "neutral",
     "prev_close": 58.2,
     "prev_1_week": 54.5,
-    "as_of": "2026-08-28T00:00:00+00:00"
+    "as_of": "2026-08-28T23:59:58+00:00"
   },
   "hsi": {
     "symbol": "^HSI",
-    "price": 25636.64,
+    "price": 25584.79,
     "prev": 25565.74,
-    "change_pct": 0.28,
+    "change_pct": 0.07,
     "source": "tencent"
   },
   "hstech": {
     "symbol": "^HSTECH",
-    "price": 4622.9,
+    "price": 4605.15,
     "prev": 4620.29,
-    "change_pct": 0.06,
+    "change_pct": -0.33,
     "source": "tencent"
   },
   "spx": {
     "symbol": "^GSPC",
-    "price": 7730.99,
-    "prev": 7675.7,
-    "change_pct": 0.72,
-    "as_of": 1787864304,
+    "price": 7711.76,
+    "prev": 7730.99,
+    "change_pct": -0.25,
+    "as_of": 1787949420,
     "source": "yahoo"
   },
   "nasdaq": {
     "symbol": "^IXIC",
-    "price": 26541.35,
-    "prev": 26130.2,
-    "change_pct": 1.57,
+    "price": 26402.42,
+    "prev": 26541.35,
+    "change_pct": -0.52,
     "source": "tencent"
   },
   "fed_press": [
