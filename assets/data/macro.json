@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-09-01T23:34:56.310754+00:00",
+  "generated_at": "2026-09-02T23:35:23.164728+00:00",
   "vix": {
     "symbol": "^VIX",
-    "price": 16.34,
-    "prev": 14.92,
-    "change_pct": 9.52,
-    "as_of": 1788293701,
+    "price": 15.2,
+    "prev": 16.34,
+    "change_pct": -6.98,
+    "as_of": 1788380101,
     "source": "yahoo"
   },
   "treasury_10y": {
     "symbol": "^TNX",
     "price": 4.796,
-    "prev": 4.758,
-    "change_pct": 0.8,
-    "as_of": 1788289194,
+    "prev": 4.796,
+    "change_pct": 0.0,
+    "as_of": 1788375593,
     "source": "yahoo",
     "yield_pct": 4.796
   },
   "dxy": {
     "symbol": "DX-Y.NYB",
-    "price": 99.654,
-    "prev": 99.677,
+    "price": 99.577,
+    "prev": 99.596,
     "change_pct": -0.02,
-    "as_of": 1788300299,
+    "as_of": 1788386698,
     "source": "yahoo"
   },
   "fear_greed": {
-    "score": 44.6,
+    "score": 33.2,
     "rating": "fear",
-    "prev_close": 49.7,
-    "prev_1_week": 56.8,
-    "as_of": "2026-09-01T23:17:34+00:00"
+    "prev_close": 44.6,
+    "prev_1_week": 53.9,
+    "as_of": "2026-09-02T23:19:27+00:00"
   },
   "hsi": {
     "symbol": "^HSI",
-    "price": 25329.73,
-    "prev": 25566.99,
-    "change_pct": -0.93,
+    "price": 25311.21,
+    "prev": 25329.73,
+    "change_pct": -0.07,
     "source": "tencent"
   },
   "hstech": {
     "symbol": "^HSTECH",
-    "price": 4550.88,
-    "prev": 4619.87,
-    "change_pct": -1.49,
+    "price": 4517.16,
+    "prev": 4550.88,
+    "change_pct": -0.74,
     "source": "tencent"
   },
   "spx": {
     "symbol": "^GSPC",
-    "price": 7631.47,
-    "prev": 7686.14,
-    "change_pct": -0.71,
-    "as_of": 1788295536,
+    "price": 7666.6,
+    "prev": 7631.47,
+    "change_pct": 0.46,
+    "as_of": 1788381754,
     "source": "yahoo"
   },
   "nasdaq": {
     "symbol": "^IXIC",
-    "price": 26099.77,
-    "prev": 26370.89,
-    "change_pct": -1.03,
+    "price": 26217.83,
+    "prev": 26099.77,
+    "change_pct": 0.45,
     "source": "tencent"
   },
   "fed_press": [
